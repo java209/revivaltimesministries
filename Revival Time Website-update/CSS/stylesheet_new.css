@@ -1,0 +1,32 @@
+/* CSS Document */
+
+
+
+#copyright{
+	clear:both;
+	margin-top: 50px;
+	text-align: center;
+	padding: 10px;
+	background: #322a2a;
+
+
+}
+.p_img{
+	margin-right: 60%;
+}
+.img_small
+{
+	width:70%;
+	height: 60%;
+	padding: 2px;
+	margin-right: 80%;
+}
+
+.img_tiny
+{
+	width:70px;
+	height: 70px;
+	padding: 2px;
+	margin-right: 80%;
+
+}
